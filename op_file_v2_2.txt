@@ -1,0 +1,224 @@
+Source vocab size: 84
+Target vocab size: 47
+cuda
+Using device: cuda
+
+Testing inference...
+Model loaded successfully!
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+[Spec 20] Failed to parse decoded string: Extra data: line 1 column 279 (char 278)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+[Spec 25] Failed to parse decoded string: Extra data: line 1 column 279 (char 278)
+[Spec 25] Failed to parse decoded string: Extra data: line 1 column 279 (char 278)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+[Spec 26] Failed to parse decoded string: Extra data: line 1 column 279 (char 278)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+[Spec 28] Failed to parse decoded string: Extra data: line 1 column 279 (char 278)
+[Spec 28] Failed to parse decoded string: Expecting value: line 1 column 100 (char 99)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 47] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 47] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 57] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 57] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 57] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 58] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 58] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 59] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 59] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 59] Failed to parse decoded string: Extra data: line 1 column 221 (char 220)
+[Spec 59] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 60] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 60] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 60] Failed to parse decoded string: Extra data: line 1 column 221 (char 220)
+[Spec 60] Failed to parse decoded string: Extra data: line 1 column 222 (char 221)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'dt0'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'dt1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'num1', 'Distance': 'num2'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 132] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 132] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 132] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 132] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 133] Failed to parse decoded string: Extra data: line 1 column 260 (char 259)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 134] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 136] Failed to parse decoded string: Expecting ',' delimiter: line 1 column 145 (char 144)
+[Spec 136] Failed to parse decoded string: Expecting ',' delimiter: line 1 column 145 (char 144)
+[Spec 136] Failed to parse decoded string: Expecting ',' delimiter: line 1 column 145 (char 144)
+[Spec 136] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 136] Failed to parse decoded string: Expecting ':' delimiter: line 1 column 246 (char 245)
+[Spec 136] Failed to parse decoded string: Extra data: line 1 column 219 (char 218)
+[Spec 136] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 136] Failed to parse decoded string: Expecting ':' delimiter: line 1 column 247 (char 246)
+[Spec 136] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 137] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 137] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 137] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 137] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 137] Failed to parse decoded string: Extra data: line 1 column 260 (char 259)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 142] Failed to parse decoded string: Extra data: line 1 column 259 (char 258)
+[Spec 142] Failed to parse decoded string: Extra data: line 1 column 260 (char 259)
+[Spec 142] Failed to parse decoded string: Extra data: line 1 column 427 (char 426)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 199 (char 198)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 172 (char 171)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 259 (char 258)
+[Spec 143] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 144] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 144] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 144] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 144] Failed to parse decoded string: Extra data: line 1 column 172 (char 171)
+[Spec 144] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 144] Failed to parse decoded string: Extra data: line 1 column 259 (char 258)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 145] Failed to parse decoded string: Extra data: line 1 column 280 (char 279)
+[Spec 145] Failed to parse decoded string: Extra data: line 1 column 280 (char 279)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 147] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+[Spec 147] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 148] Failed to parse decoded string: Expecting ',' delimiter: line 1 column 145 (char 144)
+[Spec 148] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 148] Failed to parse decoded string: Extra data: line 1 column 199 (char 198)
+Transformed field names in transform_field_names: {'year': 'num0', 'race': 'str0', 'Time': 'dt0', 'Distance': 'num1'}
+[Spec 149] Failed to parse decoded string: Extra data: line 1 column 217 (char 216)
+[Spec 149] Failed to parse decoded string: Extra data: line 1 column 218 (char 217)

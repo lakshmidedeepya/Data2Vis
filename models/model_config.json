@@ -1,0 +1,8 @@
+{
+  "source_vocab_size": 87,
+  "target_vocab_size": 47,
+  "embedding_dim": 256,
+  "hidden_size": 512,
+  "num_layers": 2,
+  "dropout_rate": 0.5
+}

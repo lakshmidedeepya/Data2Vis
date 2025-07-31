@@ -1,0 +1,228 @@
+Source vocab (min freq 100): 84
+Target vocab (min freq 100): 47
+cuda
+Using device: cuda
+Starting training...
+Loaded 172719 training examples
+Loaded 21590 validation examples
+Loaded 21590 test examples
+Source vocab (min freq 100): 84
+Target vocab (min freq 100): 47
+Model built successfully!
+Source vocab size: 84
+Target vocab size: 47
+Step 100/20000 - Loss: 0.0286
+Step 200/20000 - Loss: 0.0290
+Step 300/20000 - Loss: 0.0281
+Step 400/20000 - Loss: 0.0255
+Step 500/20000 - Loss: 0.0218
+Step 600/20000 - Loss: 0.0202
+Step 700/20000 - Loss: 0.0231
+Step 800/20000 - Loss: 0.0238
+Step 900/20000 - Loss: 0.0221
+Step 1000/20000 - Loss: 0.0237
+Step 1100/20000 - Loss: 0.0219
+Step 1200/20000 - Loss: 0.0250
+Step 1300/20000 - Loss: 0.0226
+Step 1400/20000 - Loss: 0.0228
+Step 1500/20000 - Loss: 0.0230
+Step 1600/20000 - Loss: 0.0216
+Step 1700/20000 - Loss: 0.0230
+Step 1800/20000 - Loss: 0.0212
+Step 1900/20000 - Loss: 0.0221
+Step 2000/20000 - Loss: 0.0224
+Step 2100/20000 - Loss: 0.0219
+Step 2200/20000 - Loss: 0.0230
+Step 2300/20000 - Loss: 0.0208
+Step 2400/20000 - Loss: 0.0227
+Step 2500/20000 - Loss: 0.0194
+Step 2600/20000 - Loss: 0.0223
+Step 2700/20000 - Loss: 0.0204
+Step 2800/20000 - Loss: 0.0204
+Step 2900/20000 - Loss: 0.0206
+Step 3000/20000 - Loss: 0.0206
+Step 3100/20000 - Loss: 0.0209
+Step 3200/20000 - Loss: 0.0199
+Step 3300/20000 - Loss: 0.0204
+Step 3400/20000 - Loss: 0.0215
+Step 3500/20000 - Loss: 0.0199
+Step 3600/20000 - Loss: 0.0214
+Step 3700/20000 - Loss: 0.0223
+Step 3800/20000 - Loss: 0.0214
+Step 3900/20000 - Loss: 0.0206
+Step 4000/20000 - Loss: 0.0245
+Step 4100/20000 - Loss: 0.0222
+Step 4200/20000 - Loss: 0.0215
+Step 4300/20000 - Loss: 0.0230
+Step 4400/20000 - Loss: 0.0201
+Step 4500/20000 - Loss: 0.0229
+Step 4600/20000 - Loss: 0.0189
+Step 4700/20000 - Loss: 0.0216
+Step 4800/20000 - Loss: 0.0199
+Step 4900/20000 - Loss: 0.0185
+Step 5000/20000 - Loss: 0.0233
+Step 5100/20000 - Loss: 0.0213
+Step 5200/20000 - Loss: 0.0214
+Step 5300/20000 - Loss: 0.0233
+Step 5398/20000
+  Train Loss: 0.0273
+  Val Loss: 0.0201
+Step 5400/20000 - Loss: 0.0215
+Step 5500/20000 - Loss: 0.0220
+Step 5600/20000 - Loss: 0.0199
+Step 5700/20000 - Loss: 0.0210
+Step 5800/20000 - Loss: 0.0201
+Step 5900/20000 - Loss: 0.0194
+Step 6000/20000 - Loss: 0.0195
+Step 6100/20000 - Loss: 0.0191
+Step 6200/20000 - Loss: 0.0204
+Step 6300/20000 - Loss: 0.0192
+Step 6400/20000 - Loss: 0.0187
+Step 6500/20000 - Loss: 0.0216
+Step 6600/20000 - Loss: 0.0201
+Step 6700/20000 - Loss: 0.0225
+Step 6800/20000 - Loss: 0.0182
+Step 6900/20000 - Loss: 0.0190
+Step 7000/20000 - Loss: 0.0178
+Step 7100/20000 - Loss: 0.0183
+Step 7200/20000 - Loss: 0.0203
+Step 7300/20000 - Loss: 0.0198
+Step 7400/20000 - Loss: 0.0211
+Step 7500/20000 - Loss: 0.0199
+Step 7600/20000 - Loss: 0.0167
+Step 7700/20000 - Loss: 0.0190
+Step 7800/20000 - Loss: 0.0190
+Step 7900/20000 - Loss: 0.0219
+Step 8000/20000 - Loss: 0.0169
+Step 8100/20000 - Loss: 0.0200
+Step 8200/20000 - Loss: 0.0236
+Step 8300/20000 - Loss: 0.0175
+Step 8400/20000 - Loss: 0.0181
+Step 8500/20000 - Loss: 0.0177
+Step 8600/20000 - Loss: 0.0170
+Step 8700/20000 - Loss: 0.0179
+Step 8800/20000 - Loss: 0.0166
+Step 8900/20000 - Loss: 0.0157
+Step 9000/20000 - Loss: 0.0177
+Step 9100/20000 - Loss: 0.0171
+Step 9200/20000 - Loss: 0.0205
+Step 9300/20000 - Loss: 0.0176
+Step 9400/20000 - Loss: 0.0189
+Step 9500/20000 - Loss: 0.0187
+Step 9600/20000 - Loss: 0.0194
+Step 9700/20000 - Loss: 0.0181
+Step 9800/20000 - Loss: 0.0189
+Step 9900/20000 - Loss: 0.0180
+Step 10000/20000 - Loss: 0.0171
+Step 10100/20000 - Loss: 0.0171
+Step 10200/20000 - Loss: 0.0190
+Step 10300/20000 - Loss: 0.0212
+Step 10400/20000 - Loss: 0.0185
+Step 10500/20000 - Loss: 0.0173
+Step 10600/20000 - Loss: 0.0184
+Step 10700/20000 - Loss: 0.0183
+Step 10796/20000
+  Train Loss: 0.0188
+  Val Loss: 0.0171
+Step 10800/20000 - Loss: 0.0170
+Step 10900/20000 - Loss: 0.0179
+Step 11000/20000 - Loss: 0.0164
+Step 11100/20000 - Loss: 0.0159
+Step 11200/20000 - Loss: 0.0179
+Step 11300/20000 - Loss: 0.0219
+Step 11400/20000 - Loss: 0.0174
+Step 11500/20000 - Loss: 0.0163
+Step 11600/20000 - Loss: 0.0173
+Step 11700/20000 - Loss: 0.0171
+Step 11800/20000 - Loss: 0.0161
+Step 11900/20000 - Loss: 0.0158
+Step 12000/20000 - Loss: 0.0163
+Step 12100/20000 - Loss: 0.0169
+Step 12200/20000 - Loss: 0.0172
+Step 12300/20000 - Loss: 0.0166
+Step 12400/20000 - Loss: 0.0178
+Step 12500/20000 - Loss: 0.0156
+Step 12600/20000 - Loss: 0.0164
+Step 12700/20000 - Loss: 0.0179
+Step 12800/20000 - Loss: 0.0182
+Step 12900/20000 - Loss: 0.0173
+Step 13000/20000 - Loss: 0.0160
+Step 13100/20000 - Loss: 0.0172
+Step 13200/20000 - Loss: 0.0159
+Step 13300/20000 - Loss: 0.0179
+Step 13400/20000 - Loss: 0.0150
+Step 13500/20000 - Loss: 0.0165
+Step 13600/20000 - Loss: 0.0149
+Step 13700/20000 - Loss: 0.0167
+Step 13800/20000 - Loss: 0.0138
+Step 13900/20000 - Loss: 0.0183
+Step 14000/20000 - Loss: 0.0175
+Step 14100/20000 - Loss: 0.0161
+Step 14200/20000 - Loss: 0.0161
+Step 14300/20000 - Loss: 0.0162
+Step 14400/20000 - Loss: 0.0189
+Step 14500/20000 - Loss: 0.0181
+Step 14600/20000 - Loss: 0.0182
+Step 14700/20000 - Loss: 0.0153
+Step 14800/20000 - Loss: 0.0160
+Step 14900/20000 - Loss: 0.0169
+Step 15000/20000 - Loss: 0.0179
+Step 15100/20000 - Loss: 0.0157
+Step 15200/20000 - Loss: 0.0157
+Step 15300/20000 - Loss: 0.0192
+Step 15400/20000 - Loss: 0.0163
+Step 15500/20000 - Loss: 0.0152
+Step 15600/20000 - Loss: 0.0154
+Step 15700/20000 - Loss: 0.0198
+Step 15800/20000 - Loss: 0.0150
+Step 15900/20000 - Loss: 0.0178
+Step 16000/20000 - Loss: 0.0163
+Step 16100/20000 - Loss: 0.0155
+Step 16194/20000
+  Train Loss: 0.0173
+  Val Loss: 0.0167
+Step 16200/20000 - Loss: 0.0153
+Step 16300/20000 - Loss: 0.0163
+Step 16400/20000 - Loss: 0.0162
+Step 16500/20000 - Loss: 0.0147
+Step 16600/20000 - Loss: 0.0176
+Step 16700/20000 - Loss: 0.0182
+Step 16800/20000 - Loss: 0.0166
+Step 16900/20000 - Loss: 0.0150
+Step 17000/20000 - Loss: 0.0164
+Step 17100/20000 - Loss: 0.0177
+Step 17200/20000 - Loss: 0.0182
+Step 17300/20000 - Loss: 0.0153
+Step 17400/20000 - Loss: 0.0159
+Step 17500/20000 - Loss: 0.0174
+Step 17600/20000 - Loss: 0.0154
+Step 17700/20000 - Loss: 0.0170
+Step 17800/20000 - Loss: 0.0160
+Step 17900/20000 - Loss: 0.0162
+Step 18000/20000 - Loss: 0.0192
+Step 18100/20000 - Loss: 0.0166
+Step 18200/20000 - Loss: 0.0182
+Step 18300/20000 - Loss: 0.0186
+Step 18400/20000 - Loss: 0.0163
+Step 18500/20000 - Loss: 0.0172
+Step 18600/20000 - Loss: 0.0136
+Step 18700/20000 - Loss: 0.0160
+Step 18800/20000 - Loss: 0.0178
+Step 18900/20000 - Loss: 0.0162
+Step 19000/20000 - Loss: 0.0159
+Step 19100/20000 - Loss: 0.0165
+Step 19200/20000 - Loss: 0.0176
+Step 19300/20000 - Loss: 0.0157
+Step 19400/20000 - Loss: 0.0196
+Step 19500/20000 - Loss: 0.0164
+Step 19600/20000 - Loss: 0.0162
+Step 19700/20000 - Loss: 0.0172
+Step 19800/20000 - Loss: 0.0148
+Step 19900/20000 - Loss: 0.0172
+Step 20000/20000 - Loss: 0.0168
+Step 20000/20000
+  Train Loss: 0.0166
+  Val Loss: 0.0183
+Model saved to models
+
+Testing inference...
